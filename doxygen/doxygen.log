@@ -1,0 +1,4 @@
+C:/Users/borsb/Documents/Diamondus-FRVR/Egyetem/!!!Asteroids/game.c:13: warning: argument 'Az' of command @param is not found in the argument list of idozit(Uint32 ms, void *param)
+C:/Users/borsb/Documents/Diamondus-FRVR/Egyetem/!!!Asteroids/game.c:13: warning: The following parameters of idozit(Uint32 ms, void *param) are not documented:
+  parameter 'ms'
+  parameter 'param'

@@ -1,0 +1,25 @@
+var NAVTREEINDEX0 =
+{
+"annotated.html":[0,0],
+"classes.html":[0,1],
+"debugmalloc_8h_source.html":[1,0,0],
+"files.html":[1,0],
+"game_8h_source.html":[1,0,1],
+"game_draw_8h_source.html":[1,0,2],
+"index.html":[],
+"menu_8h_source.html":[1,0,3],
+"pages.html":[],
+"score_8h_source.html":[1,0,4],
+"struct_asteroid.html":[0,0,0],
+"struct_asteroid_list.html":[0,0,1],
+"struct_bullet.html":[0,0,2],
+"struct_bullet_list.html":[0,0,3],
+"struct_debugmalloc_data.html":[0,0,4],
+"struct_debugmalloc_entry.html":[0,0,5],
+"struct_explosion_list.html":[0,0,6],
+"struct_explosions.html":[0,0,7],
+"struct_keys.html":[0,0,8],
+"struct_player.html":[0,0,9],
+"struct_stat.html":[0,0,10],
+"struct_vector.html":[0,0,11]
+};
