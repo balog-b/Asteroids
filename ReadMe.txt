@@ -1,4 +1,4 @@
-Navigate in menu: W, S
+Navigate in menu: W, S, Enter
 Move: W, A, D
 Pause: P
 If you touch the edge of the screen, you explode
